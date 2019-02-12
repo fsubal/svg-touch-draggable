@@ -7,5 +7,8 @@
   "workspaces": [
     "packages/*"
   ],
-  "devDependencies": {}
+  "devDependencies": {
+    "typescript": "^3.3.3",
+    "prettier": "^1.16.4"
+  }
 }
