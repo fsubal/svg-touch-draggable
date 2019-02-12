@@ -1,12 +1,11 @@
 {
-  "name": "dragvg",
-  "version": "1.0.0",
+  "private": true,
   "description": "Make draggable your SVG Element",
   "main": "index.js",
   "author": "fsubal",
   "license": "MIT",
-  "private": false,
-  "devDependencies": {
-    "bili": "^4.2.5"
-  }
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {}
 }
