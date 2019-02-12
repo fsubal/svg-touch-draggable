@@ -1,12 +1,10 @@
 {
+  "name": "svg-touch-draggable",
+  "description": "make draggable your svg element in touch devices",
   "private": true,
-  "description": "Make draggable your SVG Element",
-  "main": "index.js",
+  "main": "index.ts",
   "author": "fsubal",
   "license": "MIT",
-  "workspaces": [
-    "packages/*"
-  ],
   "devDependencies": {
     "typescript": "^3.3.3",
     "prettier": "^1.16.4"
